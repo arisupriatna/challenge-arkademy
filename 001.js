@@ -1,6 +1,6 @@
 function myBiodata(biodata){
   let biodataObj = {
-    "name": 'Undefined',
+    "name": 'Ari Supriatna',
     "address": 'Tanah kusir 2',
     "hobbies": [
       'Ngoding', 'Browsing', 'Listening music', 'Adventure' 
